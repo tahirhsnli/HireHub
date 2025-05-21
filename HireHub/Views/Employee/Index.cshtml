@@ -1,0 +1,104 @@
+﻿@using HireHub.Models;
+@{
+    ViewData["Title"] = "Index";
+}
+@model ICollection<Employee>
+<!-- Main Content -->
+<div id="content">
+    <!-- Begin Page Content -->
+    <div class="container-fluid">
+
+        <!-- Page Heading -->
+        <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+        <p class="mb-4">
+            DataTables is a third party plugin that is used to generate the demo table below.
+            For more information about DataTables, please visit the <a target="_blank"
+            href="https://datatables.net">official DataTables documentation</a>.
+        </p>
+
+        <!-- DataTales Example -->
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <div class="mb-3 float-end text-end">
+                            <a asp-controller="Employee" asp-action="Create" class="btn btn-success">+ Create Employee</a>
+                        </div>
+                        <form method="get" asp-action="Index" class="mb-3">
+                            <div class="input-group">
+                                <input type="text" name="searchTerm" value="@(ViewData["searchTerm"] ?? "")" class="form-control" placeholder="Search employees..." />
+                                <button type="submit" class="btn btn-primary">Search</button>
+                            </div>
+                        </form>
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Position</th>
+                                <th>Office</th>
+                                <th>Age</th>
+                                <th>Start date</th>
+                                <th>Salary</th>
+                            </tr>
+                        </thead>
+                        <tfoot>
+                            <tr>
+                                <th>Name</th>
+                                <th>Position</th>
+                                <th>Office</th>
+                                <th>Age</th>
+                                <th>Start date</th>
+                                <th>Salary</th>
+                                <th>Edit</th>
+                                <th>Detail</th>
+                                <th>Delete</th>
+                            </tr>
+                        </tfoot>
+                        <tbody>
+                            @foreach(var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.FullName</td>
+                                    <td>@item.Position</td>
+                                    <td>@item.Office</td>
+                                    <td>@item.Age</td>
+                                    <td>@item.StartDate</td>
+                                    <td>@item.Salary</td>
+                                    <td>
+                                        <form asp-controller="Employee" asp-action="Edit" asp-route-id="@item.Id" method="get" style="display:inline;">
+                                            <button type="submit" class="btn btn-warning btn-sm">
+                                                <i class="fa-solid fa-pen-to-square"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <form asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id" method="get">
+                                            <input type="hidden" name="id"  />
+                                            <button type="submit" class="btn btn-info btn-sm">
+                                                <i class="fa-solid fa-circle-info"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <form asp-controller="Employee" asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline;">
+                                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this employee?');">
+                                                <i class="fa-solid fa-trash"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container-fluid -->
+
+</div>
+<!-- End of Main Content -->

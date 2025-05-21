@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Employee
+<!-- Title -->
+<h2 class="text-center text-primary fw-bold my-4" style="font-size: 2rem;">
+    Employee Details
+</h2>
+
+<!-- Card -->
+<div class="card shadow p-4 mb-5 bg-white rounded mx-auto" style="max-width: 800px;">
+    <dl class="row">
+        <dt class="col-sm-4">ID</dt>
+        <dd class="col-sm-8">@Model.Id</dd>
+
+        <dt class="col-sm-4">Full Name</dt>
+        <dd class="col-sm-8">@Model.FullName</dd>
+
+        <dt class="col-sm-4">Position</dt>
+        <dd class="col-sm-8">@Model.Position</dd>
+
+        <dt class="col-sm-4">Office</dt>
+        <dd class="col-sm-8">@Model.Office</dd>
+
+        <dt class="col-sm-4">Age</dt>
+        <dd class="col-sm-8">@Model.Age</dd>
+
+        <dt class="col-sm-4">Start Date</dt>
+        <dd class="col-sm-8">@Model.StartDate.ToString("dd.MM.yyyy")</dd>
+
+        <dt class="col-sm-4">Salary</dt>
+        <dd class="col-sm-8">@Model.Salary.ToString("N2") ₼</dd>
+    </dl>
+
+    <div class="text-center">
+        <a asp-action="Index" class="btn btn-secondary mt-3">Back to List</a>
+    </div>
+</div>
