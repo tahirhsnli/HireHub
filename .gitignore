@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Dependencies
+packages/
+node_modules/
+
+# Environment and config files
+.env
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Logs and Debugging
+*.log
+*.tlog
+*.cache
