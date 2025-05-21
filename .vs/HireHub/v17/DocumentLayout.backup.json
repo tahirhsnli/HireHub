@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Tahir\\Desktop\\HireHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\hirehub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\hirehub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,32 +63,8 @@
       "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\wwwroot\\js\\demo\\chart-pie-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|solutionrelative:hirehub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|solutionrelative:hirehubapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehubapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|solutionrelative:hirehubapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehubapi\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|solutionrelative:hirehubapi\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A18FBA2-2C7E-4877-8490-8639E25D90CF}|HireHubAPI\\HireHubAPI.csproj|solutionrelative:hirehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23267410-CADC-4E19-9271-37A21F09CDD2}|HireHub\\HireHub.csproj|c:\\users\\tahir\\desktop\\hirehub\\hirehub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,77 +90,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\appsettings.json",
-              "RelativeDocumentMoniker": "HireHub\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\appsettings.json",
-              "RelativeToolTip": "HireHub\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T18:26:05.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "HireHub\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T19:29:07.565Z",
+              "Title": "HireHub",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\HireHub.csproj",
+              "RelativeDocumentMoniker": "HireHub\\HireHub.csproj",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\HireHub.csproj",
+              "RelativeToolTip": "HireHub\\HireHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T14:45:42.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Program.cs",
-              "RelativeDocumentMoniker": "HireHub\\Program.cs",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Program.cs",
-              "RelativeToolTip": "HireHub\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:28:15.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Services\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "HireHub\\Services\\EmployeeServices.cs",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Services\\EmployeeServices.cs",
-              "RelativeToolTip": "HireHub\\Services\\EmployeeServices.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:25:25.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HireHub\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HireHub\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T17:59:59.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "HireHub\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Models\\Employee.cs",
               "RelativeToolTip": "HireHub\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T18:22:58.171Z",
               "EditorCaption": ""
@@ -185,87 +135,27 @@
               "RelativeDocumentMoniker": "HireHub\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "HireHub\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswEwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T18:26:54.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Edit.cshtml*",
-              "RelativeToolTip": "HireHub\\Views\\Employee\\Edit.cshtml*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "HireHub\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwDUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T23:02:57.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "HireHub\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T20:02:09.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "sb-admin-2.js",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\sb-admin-2.js",
-              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\sb-admin-2.js",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\sb-admin-2.js",
-              "RelativeToolTip": "HireHub\\wwwroot\\js\\sb-admin-2.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T23:35:59.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "chart-pie-demo.js",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
-              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
-              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T23:35:56.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "chart-bar-demo.js",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
-              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
-              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T23:35:57.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "chart-area-demo.js",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
-              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
-              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T23:35:58.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Details.cshtml",
@@ -273,11 +163,129 @@
               "RelativeToolTip": "HireHub\\Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T22:39:24.354Z"
+              "WhenOpened": "2025-05-20T22:39:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Index.cshtml*",
+              "RelativeToolTip": "HireHub\\Views\\Employee\\Index.cshtml*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T19:29:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "HireHub\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "HireHub\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:25:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "HireHub\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "HireHub\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:02:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Program.cs",
+              "RelativeDocumentMoniker": "HireHub\\Program.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Program.cs",
+              "RelativeToolTip": "HireHub\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:28:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\appsettings.json",
+              "RelativeDocumentMoniker": "HireHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\appsettings.json",
+              "RelativeToolTip": "HireHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T18:26:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sb-admin-2.js",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\sb-admin-2.js",
+              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\sb-admin-2.js",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\sb-admin-2.js",
+              "RelativeToolTip": "HireHub\\wwwroot\\js\\sb-admin-2.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T23:35:59.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "chart-pie-demo.js",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-pie-demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T23:35:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "chart-bar-demo.js",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-bar-demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T23:35:57.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "chart-area-demo.js",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "RelativeDocumentMoniker": "HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "RelativeToolTip": "HireHub\\wwwroot\\js\\demo\\chart-area-demo.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T23:35:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HireHub\\Views\\_ViewStart.cshtml",
@@ -285,59 +293,12 @@
               "RelativeToolTip": "HireHub\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T18:03:19.627Z"
+              "WhenOpened": "2025-05-20T18:03:19.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "HireHubAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "HireHubAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:16:57.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\Program.cs",
-              "RelativeDocumentMoniker": "HireHubAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\Program.cs",
-              "RelativeToolTip": "HireHubAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:18:08.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "HireHubAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\appsettings.json",
-              "RelativeToolTip": "HireHubAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T21:23:45.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmployeeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\ViewModel\\EmployeeViewModel.cs",
-              "RelativeDocumentMoniker": "HireHubAPI\\ViewModel\\EmployeeViewModel.cs",
-              "ToolTip": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHubAPI\\ViewModel\\EmployeeViewModel.cs",
-              "RelativeToolTip": "HireHubAPI\\ViewModel\\EmployeeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:27:44.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HireHub\\Views\\Home\\Index.cshtml",
@@ -345,11 +306,12 @@
               "RelativeToolTip": "HireHub\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T17:53:46.328Z"
+              "WhenOpened": "2025-05-20T17:53:46.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\Configuration\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "HireHub\\Configuration\\MongoDBSettings.cs",
@@ -357,7 +319,8 @@
               "RelativeToolTip": "HireHub\\Configuration\\MongoDBSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:24:37.451Z"
+              "WhenOpened": "2025-05-20T18:24:37.451Z",
+              "EditorCaption": ""
             }
           ]
         }

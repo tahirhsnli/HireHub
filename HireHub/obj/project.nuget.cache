@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5NeoNxKF3s4=",
+  "dgSpecHash": "nqbCMnPucwI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Tahir\\Desktop\\HireHub\\HireHub\\HireHub.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tahir\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\Tahir\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Tahir\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Tahir\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

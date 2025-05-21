@@ -1,4 +1,5 @@
-﻿using HireHub.Models;
+﻿using Bogus;
+using HireHub.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HireHub.Controllers
@@ -58,6 +59,35 @@ namespace HireHub.Controllers
                 // Bura log və ya sadə error message üçün
                 ModelState.AddModelError("", "Xəta baş verdi: " + ex.Message);
                 return View(emp);
+            }
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CreateMultiple()
+        {
+            try
+            {
+                var faker = new Faker<Employee>()
+                    .RuleFor(e => e.FullName, f => f.Name.FullName())
+                    .RuleFor(e => e.Position, f => f.Name.JobTitle())
+                    .RuleFor(e => e.Office, f => f.Address.City())
+                    .RuleFor(e => e.Age, f => f.Random.Int(20, 65))
+                    .RuleFor(e => e.StartDate, f => f.Date.Past(10)) // Son 10 yıl içinde
+                    .RuleFor(e => e.Salary, f => f.Finance.Amount(30000, 120000));
+
+                var employees = faker.Generate(100); // 100 sahte Employee
+
+                foreach (var emp in employees)
+                {
+                    await _employeeService.CreateAsync(emp); // MongoDB'ye ekle
+                }
+
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Xəta baş verdi: " + ex.Message);
+                return View(); // Hata sayfası
             }
         }
         [HttpGet]

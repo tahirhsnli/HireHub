@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireHub", "HireHub\HireHub.csproj", "{23267410-CADC-4E19-9271-37A21F09CDD2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireHubAPI", "HireHubAPI\HireHubAPI.csproj", "{5A18FBA2-2C7E-4877-8490-8639E25D90CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{23267410-CADC-4E19-9271-37A21F09CDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23267410-CADC-4E19-9271-37A21F09CDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23267410-CADC-4E19-9271-37A21F09CDD2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5A18FBA2-2C7E-4877-8490-8639E25D90CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A18FBA2-2C7E-4877-8490-8639E25D90CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A18FBA2-2C7E-4877-8490-8639E25D90CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A18FBA2-2C7E-4877-8490-8639E25D90CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
